@@ -62,3 +62,4 @@
 // div.addEventListener(" click", ()=>{console.1og("Div")},true) 
 // div2.addEventListener("click", ()=>{console.1og("Div2")},true) 
 // btn.addEventListener("click", ()=>{console.1og( "Button")},true)
+console.log("New Code")
